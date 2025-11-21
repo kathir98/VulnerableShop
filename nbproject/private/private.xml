@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/DBConnection.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/LoginServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/RegisterServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/ProfileServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/DeleteAccountServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/PurchaseServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/css/style.css</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/login.jsp</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/register.jsp</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/products.jsp</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/profile.jsp</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/logout.jsp</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/UpdateProfileServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/java/com/vulnerable/shop/SecurityLogger.java</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/kathir.LAPTOP-J0EQGDA4/Documents/NetBeansProjects/VulnerableShop/web/META-INF/context.xml</file>
+        </group>
+    </open-files>
+</project-private>
