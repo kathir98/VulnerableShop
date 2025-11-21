@@ -15,3 +15,5 @@ The project includes:
 This project is intentionally vulnerable.
 Use it only in isolated environments (lab machines, VMs, private networks).
 Do NOT deploy this application in production.
+
+Note : Some portions of code are created by AI, the main purpose of this app is to showcase the IDOR vulnerablity, its impact, vulnerable & secure code and mitigations.
